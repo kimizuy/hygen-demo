@@ -1,7 +1,9 @@
 # How to use
 
+Run it.
+
 ```bash
-hygen component new
+npm run new
 ```
 
 Related: [hygen でテンプレートから React コンポーネントを生成する](https://panda-program.com/posts/hygen-react)
